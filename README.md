@@ -18,4 +18,4 @@ Solution:I resolved this by opening the terminal and using the `nmcli` command t
 
  📸 Lab Evidence
 ![Kali Network Proof](kali-proof.png)
-![1-kali-proof.png](virtualbox-settings.png)
+![VirtualBox setup](1.kali-proof.png)
