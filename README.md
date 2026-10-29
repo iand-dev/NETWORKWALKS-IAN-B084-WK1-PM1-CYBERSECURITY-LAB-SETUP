@@ -15,3 +15,7 @@ Troubleshooting Experience
 During the setup, I encountered an issue where the Kali Linux VM was not receiving an IP address after changing the network adapter to NAT Network. The connection kept failing with an "IP configuration could not be reserved" error. 
 
 Solution:I resolved this by opening the terminal and using the `nmcli` command to manually assign the static IP address (`10.0.0.2/24`) and setting the IPv4 method to manual. I then brought the connection down and back up, which successfully established the network connection and allowed full internet access.
+
+ 📸 Lab Evidence
+![Kali Network Proof](kali-proof.png)
+![1-kali-proof.png](virtualbox-settings.png)
